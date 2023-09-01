@@ -2,10 +2,6 @@
 
 Responsive web application that allows users to create and edit plain text documents directly in any web browser.Designed to be fully responsive and functional, meaning it will work seamlessly on devices of all sizes as long as you have internet connection.
 
-🔗 Live Site: https://fattahsamit.github.io/text-editor/
-
-📜 Repository: https://github.com/fattahsamit/text-editor
-
 ## Technology
 
 ![Tools](https://skillicons.dev/icons?i=html,tailwind,js)
@@ -20,10 +16,6 @@ The editor's user interface is created using HTML and Tailwind CSS, while its fu
 - Font Style: Users can change the font size and font color of their text.
 - Case Conversion: Users can convert the case of their text to uppercase, lowercase, or sentence case.
 - Clear text: Clear all the text from the editor with one click.
-
-## Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/fattahsamit/text-editor/main/images/editor.PNG)
 
 ## Conclusion
 
